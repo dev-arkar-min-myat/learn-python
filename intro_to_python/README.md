@@ -14,3 +14,9 @@ Tuple | No | Yes | () or tuple() | (1,2,3)
 Set | Yes | No | {} or set() | {1,2,3}
 Dictonary | No | No | {} or dict() | {'1':1,'2':2}
 
+# 3. Control Flow
+Conditional statements
+for and while loop
+break and continue
+useful built-in function
+list comprehension
